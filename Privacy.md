@@ -616,6 +616,7 @@ Quote from their [privacy policy](https://www.privateinternetaccess.com/pages/pr
 * [Snusbase](https://snusbase.com/) - Paid Database Search Engine to check for latest database breaches.
 * [Leak Lookup](http://leak-lookup.com/) - Data Breach Search Engine
 * [leakpeek](https://leakpeek.com/) - Data Breach Search Engine
+* [Hudson Rock](https://www.hudsonrock.com/threat-intelligence-cybercrime-tools) - Check if a specific asset was compromised in Infostealer malware infection
 
 ## DNS
 
